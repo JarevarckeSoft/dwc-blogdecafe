@@ -1,2 +1,3 @@
 # dwc-blogdecafe
-BlogdeCafé: Blog destinado a información sobre el café.
+Proyecto BlogdeCafé: Página destinada a información sobre el Café. Este proyecto forma parte de las prácticas basadas en proyectos reales del curso de Desarrollo Web Completo. Se implementa HTML5 y CSS3. El diseño es responsivo para diferentes dispositivos.
+Ver proyecto parcialmente desplegado en: https://jarevarckesoft-blogdecafe-dwc.netlify.app/
